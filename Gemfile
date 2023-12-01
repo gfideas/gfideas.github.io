@@ -17,4 +17,7 @@ group :jekyll_plugins do
     gem 'jekyll-archives'
     gem 'kramdown', '>= 2.3.1'
     gem 'rouge'
+    gem 'liquid', '>= 4.0.4'
 end
+
+gem "webrick", "~> 1.8"
